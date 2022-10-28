@@ -51,11 +51,14 @@ Things included in the game:
 Rulebook
 Gamemaster Directions Board
 Gamemaster role card x1
-Bridezilla role card x1
+Bride role card x1
 Groom role card x1
-Wedding attendant role card x8
+Wedding attendant role card x6
 Wedding crasher role card x2
-Stripper role card x1
-Crazy Uncle role card x1
-Event logs/Will listing x7
-Drink Token x15
+Stripper role card x2
+Crazy Uncle role card x2
+Pastor role card x1
+Exgirlfriend role card x1
+Exboyfriend role card x1
+Event logs/Will listing x8
+Drink Token x8
