@@ -42,9 +42,13 @@ Crazy Uncle: Ability: Can visit a person a night and give them a spiked drink. B
 
 Optional Roles:
 Pastor: Can bring back one person who was eliminated, immune to crazy uncle. Good Role.
-Exgirlfriend: Goal is to get rid of the Bride either during night or day. Wins with the good side. Can only win with the removal of the bride. Can win with exboyfriend if replaced. Knows who the bride is from the gamemaster.
-Exboyfriend: Goal is to get rid of the Groom either during night or day. Wins with the good side. Can only win with the removal of the groom. Can win with exgirlfriend if replaced. Knows who the groom is from the gamemaster.
+Exgirlfriend: Goal is to get rid of the Bride either during night or day. Wins with the good side. Can only win with the removal of the bride. Can win with exboyfriend if replaced. Knows who the bride is from the gamemaster. Neutral Role.
+Exboyfriend: Goal is to get rid of the Groom either during night or day. Wins with the good side. Can only win with the removal of the groom. Can win with exgirlfriend if replaced. Knows who the groom is from the gamemaster. Neutral Role.
 Bizzare Youtuber - Using his bizzare youtube video library ability blocks a person from speaking during the next day event. Wins if he uses ability on the same person two times in a row. Neutral Role.
+Clumsy Waiter - Picks two people at night. Switches any drinks between those two people. Good Role.
+Nosy Aunt - Picks a person each night to see who visits. Good Role.
+Pimp Daddy - Told at start who the stripper is. Can make more strippers if he gives someone a second drink. Second drink can overwrites Crazy Uncle second drink. Evil Role.
+Usher - Investigates one person per night, Neutral and Bad roles show us as sus. Good roles show as not sus. Good Role.
 
 
 Things included in the game:
@@ -60,5 +64,9 @@ Crazy Uncle role card x2
 Pastor role card x1
 Exgirlfriend role card x1
 Exboyfriend role card x1
+Bizarre Youtuber x2
+Clumsy Waiter x1
+Nosy Aunt x1
+Pimp Daddy x1
 Event logs/Will listing x8
 Drink Token x8
