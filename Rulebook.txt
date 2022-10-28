@@ -16,7 +16,7 @@ During the day cycle players are free to say whatever, Gamemaster can moderate.
 During the day the good players goal should be to try to kick evil role players from the wedding.
 Evil role players goals should be trying to get the good role players kicked.
 The gamemaster then changes the cycle.
-During the night cycle every player writes what role ability they used and on who or stuff on their RSVP letter in the event card then throws them face down in a center pile.
+During the night cycle every player writes what role ability they used and on who or stuff on their RSVP letter and in the event card then throws them face down in a center pile.
 Gamemaster gets all the event cards, figures out who did what and what effect canceled out what, then writes down the response action and gives each event card back to the player.
 At any time in game a player can write notes in the Notes listing they get; this can be anywhere from helpful information for the good or evil side or a crude drawing of a dickbutt.
 Play continues until Groom is eliminated or all evil roles are kicked out of the wedding.
@@ -44,7 +44,7 @@ Optional Roles:
 Pastor: Can bring back one person who was eliminated, immune to crazy uncle. Good Role.
 Exgirlfriend: Goal is to get rid of the Bride either during night or day. Wins with the good side. Can only win with the removal of the bride. Can win with exboyfriend if replaced. Knows who the bride is from the gamemaster.
 Exboyfriend: Goal is to get rid of the Groom either during night or day. Wins with the good side. Can only win with the removal of the groom. Can win with exgirlfriend if replaced. Knows who the groom is from the gamemaster.
-
+Bizzare Youtuber - Using his bizzare youtube video library ability blocks a person from speaking during the next day event. Wins if he uses ability on the same person two times in a row. Neutral Role.
 
 
 Things included in the game:
