@@ -1,72 +1,166 @@
-Bachelor Party wedding game
+Wedding Crashers Board Game
 
+=======
 Synopsis:
 The Bride wants the perfect wedding and she has a few simple rules. No one gets hammered or sleeps with anyone. 
 Little did she know a bunch of nefarious actors were invited to her wedding and are after the Groom. 
 If she so much as hears the Groom had a fun night before the wedding the wedding is off.
 You the players must either crash the wedding or protect the integrity of the wedding. 
 
+=======
 How to play:
 Gamemaster, Bridezilla, Groom, and at least one Stripper role are required to be in the group of cards the players choose from.
 The rest can be randomly taken. 
 Gamemaster sets up the board.
-Players write down their names and roles on the event log listing card. 
+Players write down their names and roles on the event log listing card.
+Gamemaster reqeusts the event log listing cards frome everyone and writes down anything he needs to.
 The game is divided into day and night cycles. 
 During the day cycle players are free to say whatever, Gamemaster can moderate. 
 During the day the good players goal should be to try to kick evil role players from the wedding.
 Evil role players goals should be trying to get the good role players kicked.
-The gamemaster then changes the cycle.
-During the night cycle every player writes what role ability they used and on who or stuff on their RSVP letter and in the event card then throws them face down in a center pile.
+A vote can be determined on whether or not a person should be kicked by everyone around. Votes can keep chaning until either everyone gives up on voting or someone is voted out.
+The gamemaster then changes the cycle to the night.
+During the night cycle every player writes what role ability they used and on who in the event card. They also write who they chose to have a drink with at night in the event card.
+Then they throw the event cards face down in a center pile.
 Gamemaster gets all the event cards, figures out who did what and what effect canceled out what, then writes down the response action and gives each event card back to the player.
-At any time in game a player can write notes in the Notes listing they get; this can be anywhere from helpful information for the good or evil side or a crude drawing of a dickbutt.
-Play continues until Groom is eliminated or all evil roles are kicked out of the wedding.
+At any time in game a player can write notes in the RSVP Notes listing they get; this can be anything from helpful information for the good or evil side or a crude drawing of a dickbutt.
+Gamemaster changes back to the day cycle and process repeats.
+Play continues until conditions for evil or good victory occur.
 
+=======
 How to win:
-For the evil side the Groom needs to be killed by the Bridezilla by sleeping with an evil role, getting hit by the crazy uncle ability, or getting kicked during the day.
-For the good side to win the Groom needs to survive to the end of the game and all the evil roles must be kicked out of the wedding.
-For Wedding Crasher to win he needs to get kicked out of the wedding during the day. Can win alongside good or evil side.
+For the evil side to win all good roles must be voted out or removed during the night or turned to an evil role.
+For the good side to win all evil roles must be voted out.
+For the neutral roles the condition is written below and on the card.
 
-Roles
-Neutral roles:
-Gamemaster: Handles all the calculations of what every role did the night before and who is kicked out of the wedding the next day. Moderates the day events as well.
-Wedding Crasher: Wins if he gets kicked out of the wedding during the day.
-Wedding Attendant: Wins with the groom and bridezilla. Writes part of their RSVP letter every night.
+=======
+Role Abilities:
+Most roles have an ability that can be triggered either during the day or the night. Night abilities are written on the event card before the gamemaster retrieves all the event cards.
+Everyone must choose to drink with another person at night. The Pimp Daddy and the Crazy Uncle will trigger their abilities as part of the drink process.
+Some roles have an ability that lets them gain information from the gamemaster before the first day begins.
 
-Good roles:
-Bride: Can reveal herself and gain double vote in day voting. Can lock a door roleblocking the person inside but also protecting them. Wins with the groom. Immune to the stripper.
-Groom: Can reveal himself and gain double vote in day voting. Ability: lock door up to 3 nights to block anyone from visiting.
+=======
+Roles:
+Gamemaster:
+Alignment: Neutral
+Goal: Moderates day and night, cannot win or lose.
+Night Ability: Handles all the calculations of what every role did the night before and who is kicked out of the wedding the next day.
+Immunity: All roles.
 
-Evil Roles:
-Stripper: Ability: Can visit a person a night to remove them from the wedding. Wins if she gets the groom. Stripper immune to crazy uncle.
-Crazy Uncle: Ability: Can visit a person a night and give them a spiked drink. Becomes a crazy uncle after 2 drinks. Wins with stripper. Everyone who gets a first drink gets a drink token.
+Wedding Crasher:
+Alignment: Neutral
+Goal: Get kicked out of the wedding during the day voting.
+Night Ability: None
+Immunity: None
 
+Bride:
+Alignment: Good
+Goal: Good side win.
+Day Ability: Can reveal herself and gain double vote in day voting.
+Night Ability: Can lock a door roleblocking the person inside but also protecting them.
+Immunity: Stripper
+
+Groom:
+Alignment: Good
+Goal: Good side win.
+Day Ability: Can reveal himself and gain double vote in day voting.
+Night Ability: Lock door up to 3 nights to block anyone from visiting.
+Immunity: None
+
+Stripper:
+Alignment: Evil
+Goal: Evil side win or wins if she gets the groom.
+Night Ability: Can visit a person once a night to remove them from the wedding.
+Immunity: All evil roles.
+
+Crazy Uncle:
+Alignment: Evil
+Goal: Evil side win.
+Night Ability: Can visit a person a night and give them a spiked drink. Becomes a crazy uncle after 2 drinks. Everyone who gets a first drink gets a drink token.
+Immunity: All evil roles.
+
+=======
 Optional Roles:
-Pastor: Can bring back one person who was eliminated, immune to crazy uncle. Good Role.
-Exgirlfriend: Goal is to get rid of the Bride either during night or day. Wins with the good side. Can only win with the removal of the bride. Can win with exboyfriend if replaced. Knows who the bride is from the gamemaster. Neutral Role.
-Exboyfriend: Goal is to get rid of the Groom either during night or day. Wins with the good side. Can only win with the removal of the groom. Can win with exgirlfriend if replaced. Knows who the groom is from the gamemaster. Neutral Role.
-Bizzare Youtuber - Using his bizzare youtube video library ability blocks a person from speaking during the next day event. Wins if he uses ability on the same person two times in a row. Neutral Role.
-Clumsy Waiter - Picks two people at night. Switches any drinks between those two people. Good Role.
-Nosy Aunt - Picks a person each night to see who visits. Good Role.
-Pimp Daddy - Told at start who the stripper is. Can make more strippers if he gives someone a second drink. Second drink can overwrites Crazy Uncle second drink. Evil Role.
-Usher - Investigates one person per night, Neutral and Bad roles show us as sus. Good roles show as not sus. Good Role.
+Exgirlfriend:
+Alignment: Neutral
+Goal: Good side win with bride removed. Can win with ex-boyfriend instead of groom.
+Pre-Game Ability: Gamemaster reveals who the bride is at the start of the game to her.
+Immunity: None
 
+Exboyfriend:
+Alignment: Neutral
+Goal: Good side win with groom removed. Can win with ex-girlfriend instead of bride
+Pre-Game Ability: Gamemaster reveals who the groom is at the start of the game to him.
+Immunity: None
 
+Bizzare Youtuber:
+Alignment: Neutral
+Goal: Wins if he uses ability on the same person two nights in a row without getting blocked.
+Night Ability: Using his bizzare youtube video library ability blocks a person from speaking during the next day event.
+Immunity: None
+
+Pastor:
+Alignment: Good
+Goal: Good wide win
+Night Ability: Can bring back one person who was eliminated
+Immunity: Crazy Uncle
+
+Clumsy Waiter:
+Alignment: Good
+Goal: Good side win
+Night Ability: Picks two people at night. Switches any drinks between those two people.
+Immunity: None
+
+Nosy Aunt:
+Alignment: Good
+Goal: Good side win
+Night Ability: Picks a person at night and is told from the gamemaster who visited that person.
+Immunity: None
+
+Usher:
+Alignment: Good
+Goal: Good side win
+Night Ability: Investigates one person per night, Gamemaster will tell him sus if they are a Neutral or Bad role or not sus if they are a Good role.
+Immunity: None
+
+Wedding Attendant:
+Alignment: Good
+Goal: Good side win.
+Night Ability: None
+Immunity: None
+
+Pimp Daddy:
+Alignment: Evil
+Goal: Evil side win
+Pre-Game Ability: Gamemaster reveals who the stripper is at the start of the game to him.
+Night Ability: Can make more strippers if he gives someone a second spiked drink. His second drink overwrites Crazy Uncle second drink if both are given to same person.
+Immunity: All evil roles
+
+Petty Planner:
+Alignment: Evil
+Goal: Evil side win
+Night Ability: Picks two people at night. Switches rooms between those two people. Told which roles both of them are from the gamemaster.
+Immunity: All evil roles
+
+=======
 Things included in the game:
 Rulebook
 Gamemaster Directions Board
 Gamemaster role card x1
 Bride role card x1
 Groom role card x1
-Wedding attendant role card x6
 Wedding crasher role card x2
 Stripper role card x2
 Crazy Uncle role card x2
-Pastor role card x1
 Exgirlfriend role card x1
 Exboyfriend role card x1
-Bizarre Youtuber x2
-Clumsy Waiter x1
-Nosy Aunt x1
-Pimp Daddy x1
+Bizarre Youtuber role card x2
+Pastor role card x1
+Clumsy Waiter role card x1
+Nosy Aunt role card x1
+Usher role card x1
+Wedding attendant role card x6
+Pimp Daddy role card x1
+Petty Wedding Planner role card x1
 Event logs/Will listing x8
 Drink Token x8
