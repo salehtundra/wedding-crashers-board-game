@@ -23,15 +23,22 @@ The gamemaster then changes the cycle to the night.
 During the night cycle every player writes what role ability they used and on who in the event card. They also write who they chose to have a drink with at night in the event card.
 Then they throw the event cards face down in a center pile.
 Gamemaster gets all the event cards, figures out who did what and what effect canceled out what, then writes down the response action and gives each event card back to the player.
-At any time in game a player can write notes in the RSVP Notes listing they get; this can be anything from helpful information for the good or evil side or a crude drawing of a dickbutt.
-Gamemaster changes back to the day cycle and process repeats.
+At any time in game a player can write notes in the RSVP Notes Listing; this can be anything from helpful information for the good or evil side or a crude drawing of a dickbutt.
+Gamemaster changes back to the day cycle, returns event cards, and process repeats.
 Play continues until conditions for evil or good victory occur.
+When a player is eliminated they can display their role card and their RSVP Notes Listing.
 
 =======
 How to win:
 For the evil side to win all good roles must be voted out or removed during the night or turned to an evil role.
 For the good side to win all evil roles must be voted out.
 For the neutral roles the condition is written below and on the card.
+
+=======
+Alternate rules:
+When a player is eliminated they only show thier RSVP Notes Listing. So no one can be sure of which role the person belonged to.
+
+The gamemaster can tell the players what roles are in the current game for process of elimination deductive reasoning.
 
 =======
 Role Abilities:
@@ -231,5 +238,6 @@ Usher role card x1
 Wedding attendant role card x6
 Pimp Daddy role card x1
 Petty Wedding Planner role card x1
-Event logs/Will listing x8
+Event cards x8
+RSVP Notes listing x8
 Drink Token x8
