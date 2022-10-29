@@ -143,6 +143,71 @@ Night Ability: Picks two people at night. Switches rooms between those two peopl
 Immunity: All evil roles
 
 =======
+List of Immunities:
+Gamemaster cannot be affected by anyone or targeted by anyone.
+Bride cannot be affected by Stripper.
+Pastor cannot be affected by Crazy Uncle.
+Stripper cannot be affected by Crazy Uncle, Pimp Daddy, or Petty Planner.
+Crazy Uncle cannot be affected by Stripper, Pimp Daddy, or Petty Planner.
+Pimp Daddy cannot be affected by Stripper, Crazy Uncle, or Petty Planner.
+Petty Planner cannot be affected by Stripper, Crazy Uncle, or Pimp Daddy.
+
+=======
+List of Responses the Gamemaster must put on the Event Card Listing at the end of the night cycle:
+If Bride locked a person's door and an evil role attacked she can get:
+> Nefarious attempt was made on the person.
+For the person who got protected via the Bride:
+> Attacked but the door was locked.
+If anyone tries to do an ability but the Bride locked their door:
+> Roleblocked
+
+If the Groom locks the door and is attacked he gets:
+> Attacked but the door was locked.
+
+If the Stipper visits someone who is immune:
+> Immune.
+If the Stripper visits someone who has a locked door:
+> The door was locked.
+
+If the Crazy Uncle visits someone who is immune:
+> Immune.
+If the Crazy Uncle visits someone who had a second drink and Pimp Daddy did not visit:
+> Turned into Crazy Uncle.
+To the person who got turned:
+> Your role is now a Crazy Uncle.
+If the Crazy Uncle visits someone who has a locked door:
+> Door was locked.
+
+If the Bizzare Youtuber picks a person who has a locked door:
+> Door was locked.
+
+If the Nosy Aunt picks a person:
+> Visited by <list of people> (or "no one")
+
+If the Usher picks a person who is evil or neutral role:
+> Sus.
+If the Usher picks a person who is good role:
+> Not sus.
+
+If the Clumsy Waiter switches drinks and the Pimp Daddy or Crazy Uncle visited them, instead use the new person the Clumsy Waiter switched drinks to. 
+Crazy Uncle and Pimp Daddy may be unaware of this change.
+
+If the party planner picks two people who is not blocked with a locked door:
+> 1st target is <role>
+> 2nd target is <role>
+Ignore stating role of a target if there was a locked door for that target. Ignore any form of effect switching would have on those people as well.
+
+If the Pimp Daddy picks a person who is immune:
+> Immune.
+If the Pimp Daddy turns a person.
+> Turned into a Stripper.
+If the Pimp Daddy picks a person who the Crazy Uncle picked:
+> Both you and the Crazy Uncle visited the person. He/she is now a Stripper.
+To the person who got turned:
+> Your role is now a Stripper.
+
+
+=======
 Things included in the game:
 Rulebook
 Gamemaster Directions Board
