@@ -167,7 +167,9 @@ If the Groom locks the door and is attacked he gets:
 If the Stipper visits someone who is immune:
 > Immune.
 If the Stripper visits someone who has a locked door:
-> The door was locked.
+> Door was locked.
+If the Stripper visits someone the groom and he is unprotected:
+> Win condition met.
 
 If the Crazy Uncle visits someone who is immune:
 > Immune.
