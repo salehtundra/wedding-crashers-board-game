@@ -38,6 +38,8 @@ Role Abilities:
 Most roles have an ability that can be triggered either during the day or the night. Night abilities are written on the event card before the gamemaster retrieves all the event cards.
 Everyone must choose to drink with another person at night. The Pimp Daddy and the Crazy Uncle will trigger their abilities as part of the drink process.
 Some roles have an ability that lets them gain information from the gamemaster before the first day begins.
+If the Pimp Daddy or Crazy Uncle visit someone without a drink token, the target receives a drink token the next day.
+NOTE: The Pimp Daddy and Crazy Uncle can receive a drink token if visited however they cannot get turned from a second drink as they are already an evil role.
 
 =======
 Roles:
