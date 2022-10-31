@@ -19,7 +19,7 @@ During the day cycle players are free to say whatever, Gamemaster can moderate.
 During the day the good players goal should be to try to kick evil role players from the wedding.
 Evil role players goals should be trying to get the good role players kicked.
 A vote can be determined on whether or not a person should be kicked by everyone around. Votes can keep chaning until either everyone gives up on voting or someone is voted out.
-The gamemaster then changes the cycle to the night.
+The Gamemaster then changes the cycle to the night.
 During the night cycle every player writes what role ability they used and on who in the event card. They also write who they chose to have a drink with at night in the event card.
 Then they throw the event cards face down in a center pile.
 Gamemaster gets all the event cards, figures out who did what and what effect canceled out what, then writes down the response action and gives each event card back to the player.
@@ -38,13 +38,13 @@ For the neutral roles the condition is written below and on the card.
 Alternate rules:
 When a player is eliminated they only show thier RSVP Notes Listing. So no one can be sure of which role the person belonged to.
 
-The gamemaster can tell the players what roles are in the current game for process of elimination deductive reasoning.
+The Gamemaster can tell the players what roles are in the current game for process of elimination deductive reasoning.
 
 =======
 Role Abilities:
-Most roles have an ability that can be triggered either during the day or the night. Night abilities are written on the event card before the gamemaster retrieves all the event cards.
+Most roles have an ability that can be triggered either during the day or the night. Night abilities are written on the event card before the Gamemaster retrieves all the event cards.
 Everyone must choose to drink with another person at night. The Pimp Daddy and the Crazy Uncle will trigger their abilities as part of the drink process.
-Some roles have an ability that lets them gain information from the gamemaster before the first day begins.
+Some roles have an ability that lets them gain information from the Gamemaster before the first day begins.
 If the Pimp Daddy or Crazy Uncle visit someone without a drink token, the target receives a drink token the next day.
 NOTE: The Pimp Daddy and Crazy Uncle can receive a drink token if visited however they cannot get turned from a second drink as they are already an evil role.
 
@@ -90,19 +90,19 @@ Immunity: All evil roles.
 
 =======
 Optional Roles:
-Exgirlfriend:
+Ex-girlfriend:
 Alignment: Neutral
 Goal: Good side win with bride removed. Can win with ex-boyfriend instead of groom.
 Pre-Game Ability: Gamemaster reveals who the bride is at the start of the game to her.
 Immunity: None
 
-Exboyfriend:
+Ex-boyfriend:
 Alignment: Neutral
 Goal: Good side win with groom removed. Can win with ex-girlfriend instead of bride
 Pre-Game Ability: Gamemaster reveals who the groom is at the start of the game to him.
 Immunity: None
 
-Bizzare Youtuber:
+Bizarre Youtuber:
 Alignment: Neutral
 Goal: Wins if he uses ability on the same person two nights in a row without getting blocked.
 Night Ability: Using his bizzare youtube video library ability blocks a person from speaking during the next day event.
@@ -148,7 +148,7 @@ Immunity: All evil roles
 Petty Planner:
 Alignment: Evil
 Goal: Evil side win
-Night Ability: Picks two people at night. Switches rooms between those two people. Told which roles both of them are from the gamemaster.
+Night Ability: Picks two people at night. Switches rooms between those two people. Told which roles both of them are from the Gamemaster.
 Immunity: All evil roles
 
 =======
